@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 欢迎访问
+title: --黄瑞，你该去睡觉了--
 tagline: 
 ---
 {% include JB/setup %}
 
 ![logo](assets/logo48.jpg)
+
 欢迎访问我的blog。
 ## 最近的文章
 <ul class="posts">
